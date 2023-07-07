@@ -23,8 +23,7 @@
 <div align="center"><img width="1000" src="https://github.com/grupo38-T14/grupo38-T14-projeto-fullstack/blob/ad7a373f6fdac706cecb0ba2e95abe403fc3a701/front/public/banner.png"></div>
 
 <h4 align="center"> 
-	🚧  Motors Shop <img width="40" align="center" src="https://cdn.pixabay.com/photo/2021/01/28/08/52/mobil-5957400_1280.png">
- Em construção... 🚀 🚧
+	Motors Shop <img width="40" align="center" src="https://cdn.pixabay.com/photo/2021/01/28/08/52/mobil-5957400_1280.png">
 </h4>
 
 <p align="center">
