@@ -41,6 +41,10 @@
 
 Bem vindos(a) a Motors Shop, uma plataforma voltada para a divulgação de anúncios de venda de automóveis e contato direto entre o anunciante e o comprador. Inspirada na plataforma Webmotors criamos um site sofisticado, simples e intuitivo para fácil utilização e manuseio.
 
+## 💻 Link do projeto
+
+https://grupo38-t14-projeto-fullstack.vercel.app/
+
 ## ⚙️ Funcionalidades
 - [x] Cadastro de usuário (dois tipos de cadastro: Comprador ou Anunciante);
 - [x] Login;
